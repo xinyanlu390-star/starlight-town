@@ -1,0 +1,4 @@
+{
+  "prompt": "Use case: background-extraction. Edit target: this pixel town hostess sprite. Keep the character exactly the same, including face, outfit, scarf, notebook, star pin and pose. REMOVE the entire gray-white checkerboard behind her and between arm and torso. Deliver the full-body character as a genuine RGBA image with alpha 0 in ALL background pixels, no checkerboard, no painted background, no ground. The person should remain fully opaque. This is a game sprite to overlay directly onto a map. Preserve crisp pixel edges, unchanged drawing and full body, no added glow, no text.",
+  "createdAt": "2026-09-15T04:02:22.040Z"
+}
