@@ -1,0 +1,9 @@
+Source: 易安传：诗韵流年 / 作品介绍PPT.pptx, supplied by the owner.
+Original embedded screenshots extracted on 2026-10-12; converted to JPEG without cropping or redrawing.
+yian-fsm-drag.jpg: slide 13, image77.png
+yian-fsm-snap.jpg: slide 13, image78.png
+yian-fsm-move.jpg: slide 15, image89.png
+yian-fsm-camera.jpg: slide 15, image87.png
+yian-fsm-navigation.jpg: slide 19, image123.png
+yian-fsm-transition.jpg: slide 19, image126.png
+Descriptions reflect the supplied screenshots and slide text, not a new execution test of the game.
