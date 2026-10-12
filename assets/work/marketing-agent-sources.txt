@@ -1,0 +1,7 @@
+Marketing Video Agent screenshots
+Captured on 2026-10-12 from the authenticated local Knowledge system using Chrome.
+marketing-agent-list.jpg: http://127.0.0.1:8001/marketing-videos
+marketing-agent-brief.jpg: selected book task, stage=brief
+marketing-agent-plan.jpg: same task, stage=proposal
+marketing-agent-result.jpg: same task, final video review
+Book: 一只想飞的猫. Screenshots illustrate UI and workflow; task counts are a dated test-environment snapshot, not business performance claims.
